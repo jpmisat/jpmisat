@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/jpmisat.png" width="140" alt="Juan Pablo Misat">
-</p>
 
 <h3 align="center">Hola, soy Juan Pablo 👋</h3>
 
