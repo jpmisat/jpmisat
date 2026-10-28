@@ -80,13 +80,6 @@ fácil de mantener.
 **Otros sitios y apps**
 - **Baños Portátiles**, **Sovialis**, **Armonización Estética** y más.
 
-**Código abierto**
-- [TRM Colombia para WooCommerce](https://github.com/jpmisat/WCML-TRM-Colombia): precios en pesos con la tasa del día.
-- [WiwaCheckoutPro](https://github.com/jpmisat/WiwaCheckoutPro): checkout a la medida para WooCommerce.
-- [MVC Plugin Boilerplate para WordPress](https://github.com/jpmisat/mvc-plugin-boilerplate-for-wordpress).
-- [Departamentos y municipios de Colombia en SQL](https://github.com/jpmisat/departamentos-y-municipios-colombia-SQL).
-- Utilidades para Contact Form 7 y más en mis repositorios.
-
 ---
 
 #### 📊 En GitHub
