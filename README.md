@@ -21,27 +21,71 @@ fácil de mantener.
 
 ---
 
-#### 🛠️ Con qué trabajo
+#### 🛠️ Tech stack
 
-**Desarrollo**
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript (ES6+)" title="JavaScript (ES6+)">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React">&nbsp;
+  <img src="https://cdn.simpleicons.org/inertia" width="40" height="40" alt="Inertia" title="Inertia">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40" alt="Astro" title="Astro">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="40" height="40" alt="D3.js" title="D3.js">&nbsp;
+  <img src="https://cdn.simpleicons.org/chartdotjs" width="40" height="40" alt="Chart.js" title="Chart.js">
+</p>
+
+**Backend**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" title="Laravel">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React">&nbsp;
-  <img src="https://cdn.simpleicons.org/inertia" width="40" height="40" alt="Inertia" title="Inertia">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40" alt="Astro" title="Astro">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel 11, 12 y 13 · APIs RESTful" title="Laravel 11, 12 y 13 · APIs RESTful">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
+</p>
+
+**Móvil y CMS**
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" title="Flutter">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" title="Dart">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" title="Android">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" title="WordPress">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" title="WordPress">
 </p>
+
+**Bases de datos**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" title="SQLite">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis" title="Redis">
+</p>
+
+**Herramientas y nube**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="Postman" title="Postman">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma">
+</p>
+
+**IA generativa**
+
+<p>
+  <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40" alt="Hugging Face" title="Hugging Face">&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000/ffffff" width="40" height="40" alt="Modelos locales (Ollama)" title="Modelos locales (Ollama)">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch">
+</p>
+
+**Cómo trabajo:** pruebas primero (TDD) y desarrollo guiado por especificaciones (SDD), arquitectura limpia y UX/UI básico y funcional con Figma y Pencil.
 
 **Marketing**
 
@@ -58,8 +102,6 @@ fácil de mantener.
   <img src="https://www.google.com/s2/favicons?domain=neilpatel.com&sz=64" width="40" height="40" alt="Ubersuggest" title="Ubersuggest">
 </p>
 
-**Diseño:** UX/UI básico y funcional con
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20" alt="Figma" title="Figma"> Figma y Pencil
 
 ---
 
@@ -91,6 +133,14 @@ fácil de mantener.
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jpmisat&show_icons=true&hide_border=true&locale=es&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9" alt="Estadísticas">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmisat&layout=compact&hide_border=true&locale=es&theme=transparent&title_color=0EA5E9" alt="Lenguajes">
 </p>
+
+---
+
+#### 💼 Proyectos con Connexis
+
+Recibo proyectos a la medida a través de Connexis. No tomo todo: elijo cada proyecto para darle el tiempo y el cuidado que merece.
+
+Ahora mismo estoy aprendiendo a fondo IA generativa: modelos locales de texto, imagen, voz y video.
 
 ---
 
