@@ -105,25 +105,24 @@ fácil de mantener.
 
 ---
 
-#### 🚀 Proyectos
+#### 🎯 Qué hago
 
-**Productos propios**
-- **Connexis Hub:** plataforma para agencias y negocios. Clientes, portal, finanzas, SEO, contenido y producción con
-  IA, con app de escritorio para Mac y Windows.
-- **Nocturna Studio:** producción de video y voz con IA, en local y por API.
-- **Plenia:** chatbot con IA para negocios, personalizado para cada cliente.
-- **Rankea** y **[SerpGreen](https://github.com/connexis-co/serpgreen):** herramientas de SEO.
-- **[Sably](https://github.com/connexis-co/sably.co)**
+**Backend**
+- APIs RESTful y plataformas a la medida con PHP y Laravel (11, 12 y 13), con Octane y PostgreSQL.
+- Arquitectura limpia, multi-tenant y segura: roles, permisos y datos aislados por cliente.
+- Pruebas primero (TDD con Pest) y desarrollo guiado por especificaciones (SDD).
+- Colas, tiempo real e integraciones con pasarelas de pago, APIs de Google y Meta, y modelos de IA.
 
-**Educación**
-- **Moviti** y **Cursos de Conducción Bogotá:** sitio, plataforma y app móvil.
-- **Academia de Belleza**, **Certificados SENA** y **Curso de Globos Online**.
+**Frontend**
+- Interfaces rápidas y accesibles con React, Inertia, Astro, Tailwind, HTML5, CSS3 y JavaScript moderno (ES6+).
+- Gráficos y tableros con D3.js y Chart.js.
+- Sitios optimizados para Core Web Vitals y SEO técnico desde el código.
+- Apps móviles con Flutter, y Android nativo con Java desde 2012.
 
-**Turismo**
-- **Wiwatour** y **Tayrú**.
-
-**Otros sitios y apps**
-- **Baños Portátiles**, **Sovialis**, **Armonización Estética** y más.
+**Marketing y SEO**
+- SEO técnico, de contenido y local desde 2012, con Search Console, Analytics, Tag Manager, Clarity, Semrush y Ubersuggest.
+- Pauta en Google Ads desde 2012, en Meta Ads desde 2015 y en TikTok Ads.
+- Clientes que hoy venden **más de seis cifras al año** gracias al SEO orgánico y a la pauta.
 
 ---
 
