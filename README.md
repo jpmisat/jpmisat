@@ -39,7 +39,8 @@ fácil de mantener.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" title="Android">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" title="WordPress">&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40" alt="Cloudflare" title="Cloudflare">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" title="Google Cloud">
 </p>
 
 **Marketing**
@@ -49,7 +50,12 @@ fácil de mantener.
   <img src="https://cdn.simpleicons.org/meta" width="40" height="40" alt="Meta Ads (Facebook e Instagram)" title="Meta Ads (Facebook e Instagram)">&nbsp;
   <img src="https://cdn.simpleicons.org/tiktok/000000/ffffff" width="40" height="40" alt="TikTok Ads" title="TikTok Ads">&nbsp;
   <img src="https://cdn.simpleicons.org/googlesearchconsole" width="40" height="40" alt="SEO con Search Console" title="SEO con Search Console">&nbsp;
-  <img src="https://cdn.simpleicons.org/googleanalytics" width="40" height="40" alt="Google Analytics" title="Google Analytics">
+  <img src="https://cdn.simpleicons.org/googleanalytics" width="40" height="40" alt="Google Analytics" title="Google Analytics">&nbsp;
+  <img src="https://cdn.simpleicons.org/googletagmanager" width="40" height="40" alt="Google Tag Manager" title="Google Tag Manager">&nbsp;
+  <img src="https://cdn.simpleicons.org/looker" width="40" height="40" alt="Looker Studio (Google Data Studio)" title="Looker Studio (Google Data Studio)">&nbsp;
+  <img src="https://www.google.com/s2/favicons?domain=clarity.microsoft.com&sz=64" width="40" height="40" alt="Microsoft Clarity" title="Microsoft Clarity">&nbsp;
+  <img src="https://cdn.simpleicons.org/semrush" width="40" height="40" alt="Semrush" title="Semrush">&nbsp;
+  <img src="https://www.google.com/s2/favicons?domain=neilpatel.com&sz=64" width="40" height="40" alt="Ubersuggest" title="Ubersuggest">
 </p>
 
 **Diseño:** UX/UI básico y funcional con
